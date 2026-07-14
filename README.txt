@@ -1,18 +1,24 @@
-AFRIBASE LUBES PREMIUM WEBSITE
+AFRIBASE LUBES WEBSITE — GALLERY VERSION
 
-FILES
+PAGES
 - index.html
 - about.html
 - products.html
+- gallery.html
 - partnerships.html
-- style.css
-- script.js
-- assets/
 
-HOW TO USE
-1. Keep all files and folders together.
-2. Open index.html in a browser.
-3. Upload the full folder to your hosting account.
-4. Replace any text or contact details directly in the HTML files when needed.
+GALLERY IMAGE SETUP
+The Gallery page automatically uses:
+assets/1.jpg
+assets/2.jpg
+assets/3.jpg
+...
+assets/12.jpg
 
-The enquiry form opens WhatsApp 
+To replace a gallery image:
+1. Resize or crop the client's image as needed.
+2. Rename it to the correct number, for example 4.jpg.
+3. Put it inside the assets folder and replace the placeholder file.
+4. No HTML changes are required.
+
+The realistic lubricant images are used sparingly across the main website.

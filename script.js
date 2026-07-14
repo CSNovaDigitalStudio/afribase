@@ -13,6 +13,6 @@ if(form){
   e.preventDefault();
   const data=new FormData(form);
   const msg=`Hello AfriBase Lubes,%0A%0AName: ${encodeURIComponent(data.get('name'))}%0ACompany: ${encodeURIComponent(data.get('company'))}%0AInterest: ${encodeURIComponent(data.get('interest'))}%0AMessage: ${encodeURIComponent(data.get('message'))}`;
-  window.open(`https://wa.me/27619395846?text=${msg}`,'_blank');
+  window.open(`https://wa.me/27815121207?text=${msg}`,'_blank');
  });
 }
